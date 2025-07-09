@@ -1,0 +1,256 @@
+{
+  "2024": {
+    "title": "Latest Research",
+    "formula": "C₆H₁₂O₆",
+    "color": "0xFF34D399",
+    "bgColor": "0xFF042F2E",
+    "data": [
+      {
+        "id": "cg24",
+        "name": "Chemical Gazette 2024",
+        "image": "assets/images/publications/cg24.png",
+        "url": "https://drive.google.com/file/d/1lfb-LiRb9J3I8TSdONUlhcO9v50ceYV8/view?usp=sharing",
+        "type": "Research Paper",
+        "pages": 12,
+        "description": "Annual research compilation featuring cutting-edge chemical engineering innovations and breakthroughs.",
+        "publishDate": "December 2024",
+        "category": "Research"
+      },
+      {
+        "id": "handbook24",
+        "name": "ChEA Handbook 2024",
+        "image": "assets/images/publications/ChEA_handbook24.png",
+        "url": "https://drive.google.com/file/d/1zGpb7ZhaAtq2pSTOLnfN6EEDVgfDhAm6/view",
+        "type": "Handbook",
+        "pages": 37,
+        "description": "Comprehensive guide for chemical engineering students covering academic policies, procedures, and resources.",
+        "publishDate": "August 2024",
+        "category": "Academic"
+      },
+      {
+        "id": "voice24",
+        "name": "ChEA Voice 2024",
+        "image": "assets/images/publications/ChEA_voice24.jpg",
+        "url": "https://drive.google.com/file/d/1y99FyM0GauPPu30tp3rTHo5a6r8lvP7E/view?usp=sharing",
+        "type": "Newsletter",
+        "pages": 4,
+        "description": "Student newsletter highlighting achievements, events, and departmental updates throughout the year.",
+        "publishDate": "November 2024",
+        "category": "Newsletter"
+      },
+      {
+        "id": "oracle24",
+        "name": "Alum Oracle 2024",
+        "image": "assets/images/publications/Alum_Oracle24.jpg",
+        "url": "https://drive.google.com/file/d/1968eL3oUEAJ5oMToeAiojZSwIesJtVXO/view?usp=sharing",
+        "type": "Alumni Magazine",
+        "pages": 8,
+        "description": "Alumni magazine featuring success stories, industry insights, and networking opportunities.",
+        "publishDate": "October 2024",
+        "category": "Alumni"
+      }
+    ]
+  },
+  "2023": {
+    "title": "Innovation Archive",
+    "formula": "H₂SO₄",
+    "color": "0xFF22D3EE",
+    "bgColor": "0xFF083344",
+    "data": [
+      {
+        "id": "voice23",
+        "name": "ChEA Voice 2023",
+        "image": "assets/images/publications/fn23.jpg",
+        "url": "https://drive.google.com/file/d/1ABoS3L2gUuKREgSA_GvwtpGduzIiXJLh/view?usp=sharing",
+        "type": "Newsletter",
+        "pages": 4,
+        "description": "Annual newsletter showcasing student achievements and departmental highlights.",
+        "publishDate": "December 2023",
+        "category": "Newsletter"
+      },
+      {
+        "id": "gazette23",
+        "name": "Chemical Gazette 2023",
+        "image": "assets/images/publications/cg23.png",
+        "url": "https://drive.google.com/file/d/1K51Nhnj-ifyw3-ifBwwS6hVeskVMPMtW/view?usp=sharing",
+        "type": "Research Paper",
+        "pages": 12,
+        "description": "Research compilation featuring innovative chemical engineering solutions and methodologies.",
+        "publishDate": "November 2023",
+        "category": "Research"
+      }
+    ]
+  },
+  "2022": {
+    "title": "Discovery Collection",
+    "formula": "NaOH",
+    "color": "0xFFA78BFA",
+    "bgColor": "0xFF2E1065",
+    "data": [
+      {
+        "id": "oracle22",
+        "name": "Alum Oracle 2022",
+        "image": "assets/images/publications/image21.webp",
+        "url": "https://f8f4ff97-33da-4ff8-a83e-b43a7e57eef0.filesusr.com/ugd/52d346_3d318cd05cac446e98cf4b8e784f0744.pdf",
+        "type": "Alumni Magazine",
+        "pages": 6,
+        "description": "Alumni magazine celebrating achievements and fostering connections within the chemical engineering community.",
+        "publishDate": "October 2022",
+        "category": "Alumni"
+      },
+      {
+        "id": "oracle22dark",
+        "name": "Alum Oracle Dark Edition 2022",
+        "image": "assets/images/publications/image22.webp",
+        "url": "https://f8f4ff97-33da-4ff8-a83e-b43a7e57eef0.filesusr.com/ugd/52d346_c989ac4b8b4e4b308afc62dc6c0b91f7.pdf",
+        "type": "Special Edition",
+        "pages": 6,
+        "description": "Special dark-themed edition featuring exclusive content and premium design.",
+        "publishDate": "December 2022",
+        "category": "Special"
+      },
+      {
+        "id": "voice22",
+        "name": "ChEA Voice 2022",
+        "image": "assets/images/publications/cv.jpg",
+        "url": "https://f8f4ff97-33da-4ff8-a83e-b43a7e57eef0.filesusr.com/ugd/52d346_bd7e7d46fdda44e5bc7cc843b72fcdcd.pdf",
+        "type": "Newsletter",
+        "pages": 4,
+        "description": "Student newsletter documenting academic year highlights and achievements.",
+        "publishDate": "November 2022",
+        "category": "Newsletter"
+      }
+    ]
+  },
+  "2021": {
+    "title": "Synthesis Studies",
+    "formula": "NH₃",
+    "color": "0xFF2DD4BF",
+    "bgColor": "0xFF134E4A",
+    "data": [
+      {
+        "id": "gazette21",
+        "name": "Chemical Gazette 2021",
+        "image": "assets/images/publications/cg2021.webp",
+        "url": "https://f8f4ff97-33da-4ff8-a83e-b43a7e57eef0.filesusr.com/ugd/52d346_33982ebd08fc4a69b986929e0b64e38e.pdf",
+        "type": "Research Paper",
+        "pages": 12,
+        "description": "Research publication highlighting innovative chemical engineering solutions and discoveries.",
+        "publishDate": "December 2021",
+        "category": "Research"
+      },
+      {
+        "id": "oracle21",
+        "name": "Alum Oracle 2021",
+        "image": "assets/images/publications/ao21.webp",
+        "url": "https://f8f4ff97-33da-4ff8-a83e-b43a7e57eef0.filesusr.com/ugd/52d346_e8062dd752db457ba327e36144e649be.pdf",
+        "type": "Alumni Magazine",
+        "pages": 4,
+        "description": "Alumni magazine connecting graduates and sharing industry insights.",
+        "publishDate": "October 2021",
+        "category": "Alumni"
+      },
+      {
+        "id": "voice21",
+        "name": "ChEA Voice 2021",
+        "image": "assets/images/publications/fn21.webp",
+        "url": "https://f8f4ff97-33da-4ff8-a83e-b43a7e57eef0.filesusr.com/ugd/52d346_185bb007db8d453c9dc682a5c9fb59a5.pdf",
+        "type": "Newsletter",
+        "pages": 4,
+        "description": "Annual newsletter featuring student activities and departmental updates.",
+        "publishDate": "November 2021",
+        "category": "Newsletter"
+      }
+    ]
+  },
+  "2020": {
+    "title": "Catalyst Chronicles",
+    "formula": "CO₂",
+    "color": "0xFF34D399",
+    "bgColor": "0xFF042F2E",
+    "data": [
+      {
+        "id": "gazette20",
+        "name": "Chemical Gazette 2020",
+        "image": "assets/images/publications/cg20.webp",
+        "url": "https://f8f4ff97-33da-4ff8-a83e-b43a7e57eef0.filesusr.com/ugd/52d346_6b4a04449c904929b2ce92b6f50b2de1.pdf",
+        "type": "Research Paper",
+        "pages": 8,
+        "description": "Research compilation showcasing chemical engineering innovations during challenging times.",
+        "publishDate": "December 2020",
+        "category": "Research"
+      },
+      {
+        "id": "voice20",
+        "name": "ChEA Voice 2020",
+        "image": "assets/images/publications/fn20.jpg",
+        "url": "https://f8f4ff97-33da-4ff8-a83e-b43a7e57eef0.filesusr.com/ugd/52d346_65777f8ea4b844358c53e9f8e42e2ecf.pdf",
+        "type": "Newsletter",
+        "pages": 4,
+        "description": "Newsletter documenting adaptations and achievements during the pandemic year.",
+        "publishDate": "November 2020",
+        "category": "Newsletter"
+      }
+    ]
+  },
+  "2019": {
+    "title": "Molecular Insights",
+    "formula": "H₂O",
+    "color": "0xFF22D3EE",
+    "bgColor": "0xFF083344",
+    "data": [
+      {
+        "id": "gazette19",
+        "name": "Chemical Gazette 2019",
+        "image": "assets/images/publications/cg19.webp",
+        "url": "https://f8f4ff97-33da-4ff8-a83e-b43a7e57eef0.filesusr.com/ugd/52d346_deae54f32fca4d9ea018b991318ba648.pdf",
+        "type": "Research Paper",
+        "pages": 4,
+        "description": "Research publication featuring molecular-level insights and engineering applications.",
+        "publishDate": "December 2019",
+        "category": "Research"
+      },
+      {
+        "id": "voice19",
+        "name": "ChEA Voice 2019",
+        "image": "assets/images/publications/fn19.webp",
+        "url": "https://f8f4ff97-33da-4ff8-a83e-b43a7e57eef0.filesusr.com/ugd/52d346_17b5cb10e973481c935c7b8943230e91.pdf",
+        "type": "Newsletter",
+        "pages": 2,
+        "description": "Student newsletter highlighting academic and extracurricular achievements.",
+        "publishDate": "November 2019",
+        "category": "Newsletter"
+      }
+    ]
+  },
+  "Pre-2019": {
+    "title": "Foundation Papers",
+    "formula": "CaCO₃",
+    "color": "0xFFA78BFA",
+    "bgColor": "0xFF2E1065",
+    "data": [
+      {
+        "id": "gazette18",
+        "name": "Chemical Gazette 2018",
+        "image": "assets/images/publications/cg18.webp",
+        "url": "https://f8f4ff97-33da-4ff8-a83e-b43a7e57eef0.filesusr.com/ugd/52d346_71dd8d1e33af451f9c91f5e087b8219b.pdf",
+        "type": "Research Paper",
+        "pages": 4,
+        "description": "Foundational research publication establishing key chemical engineering principles.",
+        "publishDate": "December 2018",
+        "category": "Research"
+      },
+      {
+        "id": "gazette17",
+        "name": "Chemical Gazette 2017",
+        "image": "assets/images/publications/cg17.webp",
+        "url": "https://f8f4ff97-33da-4ff8-a83e-b43a7e57eef0.filesusr.com/ugd/52d346_0b90a5a264354853871333bf40965750.pdf",
+        "type": "Research Paper",
+        "pages": 4,
+        "description": "Early research compilation laying groundwork for future innovations.",
+        "publishDate": "December 2017",
+        "category": "Research"
+      }
+    ]
+  }
+}

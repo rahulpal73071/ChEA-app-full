@@ -1,0 +1,669 @@
+{
+  "2025-26": [
+    {
+      "name": "Aabha Lahurikar",
+      "position": "Department General Secretary",
+      "department": "Leadership & Coordination",
+      "phone": "8767057091",
+      "email": "dgsec@che.iitb.ac.in",
+      "image": "assets/images/contacts/aabha.jpg",
+      "description": "Leads the department council and coordinates student activities.",
+      "social": {
+        "instagram": "https://www.instagram.com/aabha_lahurikar/?igshid=ZDc4ODBmNjlmNQ%3D%3D",
+        "linkedin": "https://www.linkedin.com/in/aabha-lahurikar-498780255/",
+        "facebook": "https://facebook.com/aabha.lahurikar"
+      }
+    },
+    {
+      "name": "Shubham Kumar",
+      "position": "Joint Secretary, Industrial Outreach",
+      "department": "Industry Relations",
+      "phone": "8541873913",
+      "email": "shubhamherry.iitb@gmail.com",
+      "image": "assets/images/contacts/shubham.jpg",
+      "description": "Handles communication with companies and industry bodies.",
+      "social": {
+        "instagram": "https://www.instagram.com/shubham_herry/",
+        "linkedin": "https://www.linkedin.com/in/shubham-kumar-iitb/",
+        "facebook": "https://www.facebook.com/gohil.singhal.5"
+      }
+    },
+    {
+      "name": "Ayush Tayal",
+      "position": "Joint Secretary, Academic Affairs",
+      "department": "Academic Excellence",
+      "phone": "8171548721",
+      "email": "tayalayush03@gmail.com",
+      "image": "assets/images/contacts/ayush.png",
+      "description": "Focuses on academic support and performance initiatives.",
+      "social": {
+        "instagram": "https://www.instagram.com/its_tayalayush?igsh=b3hucTV5Mnpkd2x2",
+        "linkedin": "https://www.linkedin.com/in/tayalayush03",
+        "facebook": "https://www.facebook.com/ayush.tayal.9?mibextid=ZbWKwL"
+      }
+    },
+    {
+      "name": "Agrim Jain",
+      "position": "Joint Secretary, Events",
+      "department": "Event Management",
+      "phone": "9045839776",
+      "email": "agrimj2712@gmail.com",
+      "image": "assets/images/contacts/agrim.jpg",
+      "description": "Plans and executes departmental events and functions.",
+      "social": {
+        "instagram": "https://www.instagram.com/agrimj2712/",
+        "linkedin": "https://www.linkedin.com/in/agrim-jain-934226230/",
+        "facebook": "https://www.facebook.com/profile.php?id=100084896567870"
+      }
+    },
+    {
+      "name": "Rahul Pal",
+      "position": "Technical Secretary",
+      "department": "Technical Innovation",
+      "phone": "7307185487",
+      "email": "rahulpal.per@gmail.com",
+      "image": "assets/images/contacts/rahul.png",
+      "description": "Manages technical initiatives and innovation platforms.",
+      "social": {
+        "instagram": "https://www.instagram.com/raahull_pal?igsh=NTNraXdhb3lkdzhy",
+        "linkedin": "https://www.linkedin.com/in/rahulpal-iitb",
+        "facebook": "https://facebook.com/rahul.pal"
+      }
+    },
+    {
+      "name": "Saransh Jain",
+      "position": "Social Secretary",
+      "department": "Community Building",
+      "phone": "7693092888",
+      "email": "saranshjainn.01@gmail.com",
+      "image": "assets/images/contacts/saransh.jpg",
+      "description": "Drives social welfare and inclusivity efforts.",
+      "social": {
+        "instagram": "https://www.instagram.com/saransh.jain_01?igsh=MTUxeDVpdTBrMXlwNQ==",
+        "linkedin": "https://www.linkedin.com/in/rahul-pal-a4bb1933b",
+        "facebook": "https://facebook.com/saransh.jain"
+      }
+    },
+    {
+      "name": "Siya Sarda",
+      "position": "Associate Secretary",
+      "department": "Operations Support",
+      "phone": "9354609131",
+      "email": "siyasarda.chea@gmail.com",
+      "image": "assets/images/contacts/siya.jpg",
+      "description": "Assists in smooth operations of departmental activities.",
+      "social": {
+        "instagram": "https://www.instagram.com/itssiyasarda?igsh=d29vdjVjMzhtdzdm",
+        "linkedin": "https://www.linkedin.com/in/siyasarda18/",
+        "facebook": "https://facebook.com/siya.sarda"
+      }
+    },
+    {
+      "name": "Tanmay Sonkar",
+      "position": "Associate Secretary",
+      "department": "Administrative Affairs",
+      "phone": "8840035159",
+      "email": "tanmaysonkar.chea@gmail.com",
+      "image": "assets/images/contacts/tanmay.JPG",
+      "description": "Supports administrative tasks and event logistics.",
+      "social": {
+        "instagram": "https://www.instagram.com/tanmay_sonkar._?igsh=cW04c3Q0NzJzNDA4",
+        "linkedin": "https://www.linkedin.com/in/tanmay-sonkar-670aaa330",
+        "facebook": "https://facebook.com/tanmay.sonkar"
+      }
+    },
+    {
+      "name": "Nilay Kanakia",
+      "position": "Editor",
+      "department": "Content Creation",
+      "phone": "9987936599",
+      "email": "24b0386@iitb.ac.in",
+      "image": "assets/images/contacts/nilay.png",
+      "description": "Manages editorial content and publications.",
+      "social": {
+        "instagram": "https://www.instagram.com/nilaykanakia2410?igsh=MXI2b2NibWhucnc5Yg==",
+        "linkedin": "https://linkedin.com/in/nilay-kanakia",
+        "facebook": "https://facebook.com/nilay.kanakia"
+      }
+    },
+    {
+      "name": "Divyanshi Agrawal",
+      "position": "Design Secretary",
+      "department": "Visual Design",
+      "phone": "8793140610",
+      "email": "24b0391@iitb.ac.in",
+      "image": "assets/images/contacts/divyanshi.jpg",
+      "description": "Leads all visual and creative design efforts.",
+      "social": {
+        "instagram": "https://www.instagram.com/divyanshiagrawal_13?igsh=eXNvcWdzdnV0MW1m",
+        "linkedin": "https://linkedin.com/in/divyanshi-agrawal",
+        "facebook": "https://facebook.com/divyanshi.agrawal"
+      }
+    },
+    {
+      "name": "Kalash Airan",
+      "position": "Sports Secretary",
+      "department": "Sports & Recreation",
+      "phone": "7999148464",
+      "email": "24b0393@iitb.ac.in",
+      "image": "assets/images/contacts/kalash.webp",
+      "description": "Encourages and organizes sports and fitness activities.",
+      "social": {
+        "instagram": "https://instagram.com/kalash_airan",
+        "linkedin": "https://linkedin.com/in/kalash-airan",
+        "facebook": "https://facebook.com/kalash.airan"
+      }
+    }
+  ],
+  "2024-25": [
+    {
+      "name": "Amrit Raj",
+      "position": "Department General Secretary",
+      "department": "Leadership & Coordination",
+      "phone": "7545855055",
+      "email": "dgsec@che.iitb.ac.in",
+      "image": "assets/images/contacts/Amrit.jpeg",
+      "description": "Oversees council functions and departmental coordination.",
+      "social": {
+        "instagram": "https://instagram.com/amritraj4440?igshid=MzNlNGNkZWQ4Mg==",
+        "linkedin": "https://www.linkedin.com/in/amrit-raj-b2037a228",
+        "facebook": "https://www.facebook.com/profile.php?id=100091401824609&mibextid=ZbWKwL"
+      }
+    },
+    {
+      "name": "Steve Austin Samuel",
+      "position": "Joint Secretary Events",
+      "department": "Event Management",
+      "phone": "9600082807",
+      "email": "steveaustinsamuel@gmail.com",
+      "image": "assets/images/contacts/Steve.jpg",
+      "description": "Organizes and executes departmental events.",
+      "social": {
+        "instagram": "https://instagram.com/mainhoonsteve?igshid=NGExMmI2YTkyZg==",
+        "linkedin": "https://www.linkedin.com/in/steve-austin-samuel-a2a8b6155",
+        "facebook": "https://www.facebook.com/steve.austin.samuel?mibextid=ZbWKwL"
+      }
+    },
+    {
+      "name": "Pratiksha Kapoor",
+      "position": "Joint Secretary Industrial Outreach",
+      "department": "Industry Relations",
+      "phone": "9152929329",
+      "email": "pratiksha.kapoor@iitb.ac.in",
+      "image": "assets/images/contacts/Pratiksh.jpg",
+      "description": "Builds industry collaborations and outreach programs.",
+      "social": {
+        "instagram": "https://www.instagram.com/pratikshakapoor89/",
+        "linkedin": "https://www.linkedin.com/in/pratiksha-kapoor-66b384250/",
+        "facebook": "https://facebook.com/pratiksha.kapoor"
+      }
+    },
+    {
+      "name": "Maitreyee Tengshe",
+      "position": "Joint Secretary Academic Affairs",
+      "department": "Academic Excellence",
+      "phone": "7030909443",
+      "email": "22b0318@iitb.ac.in",
+      "image": "assets/images/contacts/Maitri.jpg",
+      "description": "Supports students in academic matters and policies.",
+      "social": {
+        "instagram": "https://www.instagram.com/maitreyee_.38?r=nametag",
+        "linkedin": "https://www.linkedin.com/in/maitreyee-tengshe-810812252",
+        "facebook": "https://www.facebook.com/profile.php?id=100089717880314&mibextid=ZbWKwL"
+      }
+    },
+    {
+      "name": "Abhinav Kumar",
+      "position": "Associate Secretary",
+      "department": "Operations Support",
+      "phone": "6201395251",
+      "email": "abhinavkrrr@gmail.com",
+      "image": "assets/images/contacts/Abhinav.jpg",
+      "description": "Assists in the daily operations of the council.",
+      "social": {
+        "instagram": "https://www.instagram.com/pablo_chocobar.cpp?igsh=c2FvZHJuaHY2MnZz",
+        "linkedin": "https://www.linkedin.com/in/abhinav-kumar-499004280",
+        "facebook": "https://facebook.com/abhinav.kumar"
+      }
+    },
+    {
+      "name": "Shubham Kumar",
+      "position": "Associate Secretary",
+      "department": "Administrative Affairs",
+      "phone": "8541873913",
+      "email": "shubhamherry.iitb@gmail.com",
+      "image": "assets/images/contacts/shubham.jpg",
+      "description": "Supports administrative and organizational functions.",
+      "social": {
+        "instagram": "https://www.instagram.com/shubham_herry/",
+        "linkedin": "https://www.linkedin.com/in/shubham-kumar-iitb/",
+        "facebook": "https://facebook.com/shubham.kumar"
+      }
+    },
+    {
+      "name": "Ayush Tayal",
+      "position": "Social Secretary",
+      "department": "Community Engagement",
+      "phone": "8171548721",
+      "email": "tayalayush03@gmail.com",
+      "image": "assets/images/contacts/ayush.png",
+      "description": "Leads social events and student interaction activities.",
+      "social": {
+        "instagram": "https://www.instagram.com/its_tayalayush?igsh=b3hucTV5Mnpkd2x2",
+        "linkedin": "https://www.linkedin.com/in/tayalayush03",
+        "facebook": "https://www.facebook.com/ayush.tayal.9?mibextid=ZbWKwL"
+      }
+    },
+    {
+      "name": "Agrim Jain",
+      "position": "Sports Secretary",
+      "department": "Sports & Recreation",
+      "phone": "9045839776",
+      "email": "agrimj2712@gmail.com",
+      "image": "assets/images/contacts/agrim.jpg",
+      "description": "Promotes sports activities and fitness awareness.",
+      "social": {
+        "instagram": "https://www.instagram.com/agrimj2712/",
+        "linkedin": "https://www.linkedin.com/in/agrim-jain-934226230/",
+        "facebook": "https://www.facebook.com/profile.php?id=100084896567870"
+      }
+    },
+    {
+      "name": "Damodar Pendse",
+      "position": "Alumni Secretary",
+      "department": "Alumni Relations",
+      "phone": "7350644940",
+      "email": "23b0429@iitb.ac.in",
+      "image": "assets/images/contacts/Damodar.jpg",
+      "description": "Connects current students with alumni and mentors.",
+      "social": {
+        "instagram": "https://www.instagram.com/damitssme/",
+        "linkedin": "https://www.linkedin.com/in/damodar-pendse/",
+        "facebook": "https://www.facebook.com/profile.php?id=61561073463381"
+      }
+    },
+    {
+      "name": "Shreya Pingle",
+      "position": "Editor",
+      "department": "Content Creation",
+      "phone": "8999965946",
+      "email": "aabha1006@gmail.com",
+      "image": "assets/images/contacts/Shreya.jpg",
+      "description": "Manages newsletter and editorial content.",
+      "social": {
+        "instagram": "https://www.instagram.com/shreya_pingle2303?igsh=MW11MzJ6bHZmdzNrdA%3D%3D&utm_source=qr",
+        "linkedin": "https://www.linkedin.com/in/shreya-pingle-20442124b",
+        "facebook": "https://facebook.com/shreya.pingle"
+      }
+    },
+    {
+      "name": "Anvitaa Goel",
+      "position": "Design Secretary",
+      "department": "Visual Design",
+      "phone": "8860751667",
+      "email": "goelanvitaa@gmail.com",
+      "image": "assets/images/contacts/Anvita.jpg",
+      "description": "Designs visual content and event creatives.",
+      "social": {
+        "instagram": "https://www.instagram.com/anvitaagoel?igsh=ZTByd2Eyb3I1dHl4",
+        "linkedin": "http://www.linkedin.com/in/anvitaa-goel-b4817631a",
+        "facebook": "https://facebook.com/anvitaa.goel"
+      }
+    },
+    {
+      "name": "Sneha Shandilya",
+      "position": "Web Secretary",
+      "department": "Web Development",
+      "phone": "7665246878",
+      "email": "23b0345@iitb.ac.in",
+      "image": "assets/images/contacts/Sneha.jpg",
+      "description": "Maintains the departmental website and online resources.",
+      "social": {
+        "instagram": "https://www.instagram.com/snehashandilya09/",
+        "linkedin": "https://www.linkedin.com/in/shandilyasneha09/",
+        "facebook": "https://facebook.com/sneha.shandilya"
+      }
+    },
+    {
+      "name": "Harsh Jadhav",
+      "position": "S1 Class Representative",
+      "department": "Student Representation",
+      "phone": "8369526409",
+      "email": "23b0301@iitb.ac.in",
+      "image": "assets/images/contacts/Harsh.jpg",
+      "description": "Represents first-year class students in the council.",
+      "social": {
+        "instagram": "https://www.instagram.com/hharshh.27?igsh=OXl0eTR6c2hucnR2&utm_source=qr",
+        "linkedin": "https://www.linkedin.com/in/harsh-jadhav-1qw12",
+        "facebook": "https://facebook.com/harsh.jadhav"
+      }
+    },
+    {
+      "name": "Minal Bhojasia",
+      "position": "S2 Class Representative",
+      "department": "Student Representation",
+      "phone": "9113801656",
+      "email": "23b0404@iitb.ac.in",
+      "image": "assets/images/contacts/Minal.jpg",
+      "description": "Acts as the voice of second-year students in meetings.",
+      "social": {
+        "instagram": "https://www.instagram.com/minal.bhojasia/",
+        "linkedin": "https://www.linkedin.com/in/minal-bhojasia-346ba9281/",
+        "facebook": "https://facebook.com/minal.bhojasia"
+      }
+    }
+  ],
+  "2023-24": [
+    {
+      "name": "Parth Manish Dani",
+      "position": "Department General Secretary",
+      "department": "Leadership & Coordination",
+      "phone": "9323294005",
+      "email": "dgsec@che.iitb.ac.in",
+      "image": "Parth",
+      "description": "Leads the council and oversees departmental coordination.",
+      "social": {
+        "instagram": "https://instagram.com/parth_dani_?igshid=ZGUzMzM3NWJiOQ==",
+        "linkedin": "https://www.linkedin.com/in/parth-dani-538542201",
+        "facebook": "https://www.facebook.com/profile.php?id=100010070436244"
+      }
+    },
+    {
+      "name": "Amrit Raj",
+      "position": "Joint Secretary Academic Affairs",
+      "department": "Academic Excellence",
+      "phone": "7545855055",
+      "email": "210020016@iitb.ac.in",
+      "image": "Amrit",
+      "description": "Supports academics and student learning initiatives.",
+      "social": {
+        "instagram": "https://instagram.com/amritraj4440?igshid=MzNlNGNkZWQ4Mg==",
+        "linkedin": "https://www.linkedin.com/in/amrit-raj-b2037a228",
+        "facebook": "https://www.facebook.com/profile.php?id=100091401824609&mibextid=ZbWKwL"
+      }
+    },
+    {
+      "name": "Tanay Mestry",
+      "position": "Joint Secretary Events",
+      "department": "Event Management",
+      "phone": "9004837295",
+      "email": "tanaypm6129@gmail.com",
+      "image": "tanay",
+      "description": "Organizes and manages events across the department.",
+      "social": {
+        "instagram": "https://instagram.com/mtanay15?igshid=MzNlNGNkZWQ4Mg==",
+        "linkedin": "https://www.linkedin.com/in/tanay-mestry-2b6380228",
+        "facebook": "https://www.facebook.com/tanay.mestry?mibextid=ZbWKwL"
+      }
+    },
+    {
+      "name": "Gohil Singhal",
+      "position": "Social Secretary",
+      "department": "Community Engagement",
+      "phone": "7665600257",
+      "email": "22B0373@iitb.ac.in",
+      "image": "Gohil",
+      "description": "Promotes social interaction and bonding among students.",
+      "social": {
+        "instagram": "https://www.instagram.com/gohil_singhal/",
+        "linkedin": "https://www.linkedin.com/in/gohil-singhal-03aab6253/",
+        "facebook": "https://www.facebook.com/gohil.singhal.5"
+      }
+    },
+    {
+      "name": "Radhika Goyal",
+      "position": "Sports Secretary",
+      "department": "Sports & Recreation",
+      "phone": "7850087763",
+      "email": "22b0423@iitb.ac.in",
+      "image": "radhika",
+      "description": "Promotes sports activities and fitness culture.",
+      "social": {
+        "instagram": "https://www.instagram.com/_radhikaagoyal/#",
+        "linkedin": "https://linkedin.com/in/radhika-goyal",
+        "facebook": "https://facebook.com/radhika.goyal"
+      }
+    },
+    {
+      "name": "Maitreyee Tengshe",
+      "position": "Alumni Secretary",
+      "department": "Alumni Relations",
+      "phone": "7030909443",
+      "email": "maitu.ten@gmail.com",
+      "image": "maitri",
+      "description": "Maintains communication with alumni and promotes networking.",
+      "social": {
+        "instagram": "https://www.instagram.com/maitreyee_.38?r=nametag",
+        "linkedin": "https://www.linkedin.com/in/maitreyee-tengshe-810812252",
+        "facebook": "https://www.facebook.com/profile.php?id=100089717880314&mibextid=ZbWKwL"
+      }
+    },
+    {
+      "name": "Aabha Lahurikar",
+      "position": "Editor",
+      "department": "Content Creation",
+      "phone": "8767057091",
+      "email": "aabha1006@gmail.com",
+      "image": "Aabha",
+      "description": "Manages all editorial and written content for the department.",
+      "social": {
+        "instagram": "https://instagram.com/aabha_lahurikar?igshid=ZDc4ODBmNjlmNQ==",
+        "linkedin": "https://www.linkedin.com/in/aabha-lahurikar-498780255/",
+        "facebook": "https://www.facebook.com/profile.php?id=100092148917301"
+      }
+    },
+    {
+      "name": "Steve Austin Samuel",
+      "position": "Design Secretary",
+      "department": "Visual Design",
+      "phone": "9600082807",
+      "email": "steveaustinsamuel@gmail.com",
+      "image": "steve",
+      "description": "Designs creative content and branding for events.",
+      "social": {
+        "instagram": "https://instagram.com/mainhoonsteve?igshid=NGExMmI2YTkyZg==",
+        "linkedin": "https://www.linkedin.com/in/steve-austin-samuel-a2a8b6155",
+        "facebook": "https://www.facebook.com/steve.austin.samuel?mibextid=ZbWKwL"
+      }
+    },
+    {
+      "name": "Prarthana Joy Francis",
+      "position": "Web Secretary",
+      "department": "Web Development",
+      "phone": "7067083081",
+      "email": "prarthanafrancis10@gmail.com",
+      "image": "Prarthana",
+      "description": "Maintains and updates the department's website and tech platforms.",
+      "social": {
+        "instagram": "https://instagram.com/prarthana__10?igshid=MzNlNGNkZWQ4Mg==",
+        "linkedin": "https://www.linkedin.com/in/prarthana-francis-74a945257",
+        "facebook": "https://www.facebook.com/profile.php?id=100093284233605&mibextid=ZbWKwL"
+      }
+    },
+    {
+      "name": "Hridyansh Bhargava",
+      "position": "S1 Class Representative",
+      "department": "Student Representation",
+      "phone": "7976979245",
+      "email": "22b0415@iitb.ac.in",
+      "image": "hridyansh",
+      "description": "Represents S1 students in council discussions and decisions.",
+      "social": {
+        "instagram": "https://instagram.com/hridyansh_bhargava_04?igshid=MzRlODBiNWFlZA==",
+        "linkedin": "https://www.linkedin.com/in/hridyansh-bhargava-35a390253",
+        "facebook": "https://www.facebook.com/profile.php?id=100093182304107"
+      }
+    },
+    {
+      "name": "Pratiksha Kapoor",
+      "position": "S2 Class Representative",
+      "department": "Student Representation",
+      "phone": "9152929329",
+      "email": "22b0372@iitb.ac.in",
+      "image": "pratiksha",
+      "description": "Acts as liaison for S2 students in departmental activities.",
+      "social": {
+        "instagram": "https://www.instagram.com/pratikshakapoor89/",
+        "linkedin": "https://www.linkedin.com/in/pratiksha-kapoor-66b384250/",
+        "facebook": "https://facebook.com/pratiksha.kapoor"
+      }
+    }
+  ],
+  "2022-23": [
+    {
+      "name": "Khyati Jain",
+      "position": "Department General Secretary",
+      "department": "Leadership & Coordination",
+      "phone": "9465500286",
+      "email": "dgsec@che.iitb.ac.in",
+      "image": "Khyati",
+      "description": "Leads the student council and oversees departmental coordination.",
+      "social": {
+        "instagram": "https://www.instagram.com/khyati.1105/",
+        "linkedin": "https://www.linkedin.com/in/khyati-jain-9438241a0/",
+        "facebook": "https://www.facebook.com/khyati.jain.71653"
+      }
+    },
+    {
+      "name": "Parth Manish Dani",
+      "position": "Joint Secretary Academic Affairs",
+      "department": "Academic Excellence",
+      "phone": "9323294005",
+      "email": "200020090@iitb.ac.in",
+      "image": "Parth",
+      "description": "Supports academic initiatives and student performance.",
+      "social": {
+        "instagram": "https://www.instagram.com/parth_dani_/",
+        "linkedin": "https://www.linkedin.com/in/parth-dani-538542201/",
+        "facebook": "https://www.facebook.com/profile.php?id=100010070436244"
+      }
+    },
+    {
+      "name": "Vinit Nikam",
+      "position": "Joint Secretary Events",
+      "department": "Event Management",
+      "phone": "7744052977",
+      "email": "vinitnikam10@gmail.com",
+      "image": "image30",
+      "description": "Coordinates events and departmental functions.",
+      "social": {
+        "instagram": "https://www.instagram.com/vinitnikam10/",
+        "linkedin": "https://www.linkedin.com/in/vinit-nikam-9b2861203",
+        "facebook": "https://www.facebook.com/vinitnikam2211"
+      }
+    },
+    {
+      "name": "Tanay Mestry",
+      "position": "Social Secretary",
+      "department": "Community Engagement",
+      "phone": "9004837295",
+      "email": "tanaypm6129@gmail.com",
+      "image": "tanay1",
+      "description": "Enhances social bonding and student welfare.",
+      "social": {
+        "instagram": "https://www.instagram.com/mtanay15/",
+        "linkedin": "https://www.linkedin.com/in/tanay-mestry-2b6380228",
+        "facebook": "https://www.facebook.com/tanay.mestry?mibextid=ZbWKwL"
+      }
+    },
+    {
+      "name": "Aditya Mahesh",
+      "position": "Sports Secretary",
+      "department": "Sports & Recreation",
+      "phone": "8882312835",
+      "email": "adityamahesh44@gmail.com",
+      "image": "image32",
+      "description": "Promotes fitness and organizes sports activities.",
+      "social": {
+        "instagram": "https://www.instagram.com/adityamahesh44/",
+        "linkedin": "https://linkedin.com/in/aditya-mahesh",
+        "facebook": "https://facebook.com/aditya.mahesh"
+      }
+    },
+    {
+      "name": "Tejas Lokhande",
+      "position": "Alumni Secretary",
+      "department": "Alumni Relations",
+      "phone": "7057840139",
+      "email": "tejas123lokhande@gmail.com",
+      "image": "image33",
+      "description": "Builds connections with alumni and oversees networking.",
+      "social": {
+        "instagram": "https://instagram.com/tejas._.lokhande?igshid=MzRlODBiNWFlZA==",
+        "linkedin": "https://www.linkedin.com/in/tejas-lokhande-8a941a20b",
+        "facebook": "https://www.facebook.com/profile.php?id=100075412287191"
+      }
+    },
+    {
+      "name": "Srishti Badaya",
+      "position": "Editor",
+      "department": "Content Creation",
+      "phone": "8850374718",
+      "email": "210020139@iitb.ac.in",
+      "image": "image34",
+      "description": "Manages written content and department publications.",
+      "social": {
+        "instagram": "https://www.instagram.com/_srishtibadaya/",
+        "linkedin": "https://www.linkedin.com/in/srishti-badaya-625484233/",
+        "facebook": "https://facebook.com/srishti.badaya"
+      }
+    },
+    {
+      "name": "Atharva Yeole",
+      "position": "Design Secretary",
+      "department": "Visual Design",
+      "phone": "9420182884",
+      "email": "210020027@iitb.ac.in",
+      "image": "image35",
+      "description": "Creates visual content and event branding.",
+      "social": {
+        "instagram": "https://www.instagram.com/atharva_yeole1/",
+        "linkedin": "https://www.linkedin.com/in/atharva-yeole-355689226/",
+        "facebook": "https://m.facebook.com/100074538175152/"
+      }
+    },
+    {
+      "name": "Bhavina Gajghate",
+      "position": "Web Secretary",
+      "department": "Web Development",
+      "phone": "9356951687",
+      "email": "gajghate.bhavina@gmail.com",
+      "image": "image36",
+      "description": "Develops and maintains the department's online presence.",
+      "social": {
+        "instagram": "https://www.instagram.com/bhavina.g/",
+        "linkedin": "https://www.linkedin.com/in/bhavina-gajghate/",
+        "facebook": "https://www.facebook.com/bhavinagajghate/"
+      }
+    },
+    {
+      "name": "Soumya Mandal",
+      "position": "S1 Class Representative",
+      "department": "Student Representation",
+      "phone": "9476327311",
+      "email": "somyamandal0708@gmail.com",
+      "image": "image37",
+      "description": "Represents S1 students in departmental matters.",
+      "social": {
+        "instagram": "https://instagram.com/soumya.mandal/",
+        "linkedin": "https://linkedin.com/in/soumya-mandal",
+        "facebook": "https://facebook.com/soumya.mandal"
+      }
+    },
+    {
+      "name": "Amrit Raj",
+      "position": "S2 Class Representative",
+      "department": "Student Representation",
+      "phone": "7545855055",
+      "email": "210020016@iitb.ac.in",
+      "image": "image38",
+      "description": "Represents S2 students in council discussions and decisions.",
+      "social": {
+        "instagram": "https://instagram.com/amritraj4440?igshid=MzNlNGNkZWQ4Mg==",
+        "linkedin": "https://www.linkedin.com/in/amrit-raj-b2037a228",
+        "facebook": "https://www.facebook.com/profile.php?id=100091401824609&mibextid=ZbWKwL"
+      }
+    }
+  ]
+
+}

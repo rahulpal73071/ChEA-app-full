@@ -1,0 +1,5 @@
+{
+    "cmake.sourceDirectory": "C:/dev/projects/ChEA-App/chea/windows/flutter",
+    "python.analysis.autoImportCompletions": true,
+    "python.analysis.typeCheckingMode": "off"
+}

@@ -1,0 +1,287 @@
+{
+  "2024": {
+    "title": "Current Batch",
+    "icon": "Flask",
+    "color": "text-emerald-400",
+    "bgColor": "from-emerald-950/20",
+    "formula": "24B",
+    "data": [
+      {
+        "name": "Prof. Madhu Vinjamur",
+        "image": "assets/images/facads/MadhuV.jpg",
+        "email": "madhu@che.iitb.ac.in",
+        "phone": "+91 (22) 2576 7218",
+        "url": "https://www.che.iitb.ac.in/faculty/madhu-vinjamur",
+        "roll": "24B0301 – 24B0333",
+        "department": "Chemical Engineering",
+        
+        "position": "Professor"
+      },
+      {
+        "name": "Prof. Abhijit Chatterjee",
+        "image": "assets/images/facads/AbhijitC.jpg",
+        "email": "abhijit@che.iitb.ac.in",
+        "phone": "+91 (22) 2576 7242",
+        "url": "https://www.che.iitb.ac.in/faculty/abhijit-chatterjee",
+        "roll": "24B0334 – 24B0366",
+        "department": "Chemical Engineering",
+        
+        "position": "Professor"
+      },
+      {
+        "name": "Prof. Sujit Jogwar",
+        "image": "assets/images/facads/sujit.jpg",
+        "email": "jogwar@iitb.ac.in",
+        "phone": "+91 (22) 2576 7244",
+        "url": "https://www.che.iitb.ac.in/faculty/sujit-s-jogwar",
+        "roll": "24B0367 – 24B0399",
+        "department": "Chemical Engineering",
+        
+        "position": "Professor"
+      },
+      {
+        "name": "Prof. Ojus Mohan",
+        "image": "assets/images/facads/ojus.jpg",
+        "email": "ojus@che.iitb.ac.in",
+        "phone": "+91 (22) 2576 7234",
+        "url": "https://www.che.iitb.ac.in/faculty/ojus-mohan",
+        "roll": "24B0400 – 24B0432",
+        "department": "Chemical Engineering",
+        
+        "position": "Professor"
+      }
+    ]
+  },
+  "2023": {
+    "title": "Third Year",
+    "icon": "TestTube",
+    "color": "text-cyan-400",
+    "bgColor": "from-cyan-950/20",
+    "formula": "23B",
+    "data": [
+      {
+        "name": "Prof. Hemant Nanavati",
+        "image": "assets/images/facads/hemant.jpg",
+        "email": "hnanavati@che.iitb.ac.in",
+        "phone": "+91 (22) 2576 7215",
+        "url": "https://www.che.iitb.ac.in/index.php/faculty/hemant-nanavati",
+        "roll": "23B0301 – 23B0337",
+        "department": "Chemical Engineering",
+        
+        "position": "Professor"
+      },
+      {
+        "name": "Prof. Jason Ryan Picardo",
+        "image": "assets/images/facads/jason.png",
+        "email": "jrpicardo@che.iitb.ac.in",
+        "phone": "+91 (22) 2576 7247",
+        "url": "https://www.che.iitb.ac.in/index.php/faculty/jason-r-picardo",
+        "roll": "23B0338 – 23B0374",
+        "department": "Chemical Engineering",
+        
+        "position": "Professor"
+      },
+      {
+        "name": "Prof. Amol Subhedar",
+        "image": "assets/images/facads/amol.png",
+        "email": "amol.subhedar@che.iitb.ac.in",
+        "phone": "+91 (22) 2576 7248",
+        "url": "https://www.che.iitb.ac.in/index.php/faculty/amol-subhedar",
+        "roll": "23B0375 – 23B0411",
+        "department": "Chemical Engineering",
+        
+        "position": "Professor"
+      },
+      {
+        "name": "Prof. Supreet Saini",
+        "image": "assets/images/facads/supreet.jpg",
+        "email": "saini@che.iitb.ac.in",
+        "phone": "+91 (22) 2576 7216",
+        "url": "https://www.che.iitb.ac.in/index.php/faculty/supreet-saini",
+        "roll": "23B0412 – 23B0447",
+        "department": "Chemical Engineering",
+        
+        "position": "Professor"
+      }
+    ]
+  },
+  "2022": {
+    "title": "Second Year",
+    "icon": "Beaker",
+    "color": "text-violet-400",
+    "bgColor": "from-violet-950/20",
+    "formula": "22B",
+    "data": [
+      {
+        "name": "Prof. Swati Bhattacharya",
+        "image": "assets/images/facads/swati.png",
+        "email": "swaticb@che.iitb.ac.in",
+        "phone": "+91 (22) 2576 7220",
+        "url": "https://www.che.iitb.ac.in/faculty/swati-bhattacharya",
+        "roll": "22B0420-458",
+        "department": "Chemical Engineering",
+        
+        "position": "Professor"
+      },
+      {
+        "name": "Prof. Bharatkumar Suthar",
+        "image": "assets/images/facads/bharat.jpeg",
+        "email": "bharat.k.suthar@iitb.ac.in",
+        "phone": "+91 (22) 2576 7243",
+        "url": "https://www.che.iitb.ac.in/faculty/bharatkumar-suthar",
+        "roll": "22B0341-380",
+        "department": "Chemical Engineering",
+        
+        "position": "Professor"
+      },
+      {
+        "name": "Prof. Rajdip Bandyopadhyaya",
+        "image": "assets/images/facads/Rajdip.jpg",
+        "email": "rajdip@che.iitb.ac.in",
+        "phone": "+91 (22) 2576 7209",
+        "url": "https://www.che.iitb.ac.in/faculty/rajdip-bandyopadhyaya",
+        "roll": "22B0381-419",
+        "department": "Chemical Engineering",
+        
+        "position": "Professor"
+      },
+      {
+        "name": "Prof. Guruswamy Kumaraswamy",
+        "image": "assets/images/facads/gurus.jpg",
+        "email": "guruswamy@iitb.ac.in",
+        "phone": "+91 (22) 2576 7239",
+        "url": "https://www.che.iitb.ac.in/faculty/guruswamy-kumaraswamy",
+        "roll": "22B0301-340",
+        "department": "Chemical Engineering",
+        
+        "position": "Professor"
+      }
+    ]
+  },
+  "2021": {
+    "title": "Final Year",
+    "icon": "Atom",
+    "color": "text-teal-400",
+    "bgColor": "from-teal-950/20",
+    "formula": "21B",
+    "data": [
+      {
+        "name": "Prof. Sameer Jadhav",
+        "image": "assets/images/facads/Sameer.jpg",
+        "email": "srjadhav@che.iitb.ac.in",
+        "phone": "+91 (22) 2576 7219",
+        "url": "https://www.che.iitb.ac.in/index.php/faculty/sameer-jadhav",
+        "roll": "210020001-40",
+        "department": "Chemical Engineering",
+        
+        "position": "Professor"
+      },
+      {
+        "name": "Prof. Rochish Thaokar",
+        "image": "assets/images/facads/rochish.jpg",
+        "email": "rochish@che.iitb.ac.in",
+        "phone": "+91 (22) 2576 7241",
+        "url": "https://www.che.iitb.ac.in/index.php/faculty/rochish-madhukar-thaokar",
+        "roll": "210020041-80",
+        "department": "Chemical Engineering",
+        
+        "position": "Professor"
+      },
+      {
+        "name": "Prof. Arindam Sarkar",
+        "image": "assets/images/facads/Arindham.jpg",
+        "email": "asarkar@che.iitb.ac.in",
+        "phone": "+91 (22) 2576 7233",
+        "url": "https://www.che.iitb.ac.in/index.php/faculty/arindam-sarkar",
+        "roll": "210020081-120",
+        "department": "Chemical Engineering",
+        
+        "position": "Professor"
+      },
+      {
+        "name": "Prof. Mukta Tripathy",
+        "image": "assets/images/facads/Mukta.jpg",
+        "email": "tripathy@che.iitb.ac.in",
+        "phone": "+91 (22) 2576 7204",
+        "url": "https://www.che.iitb.ac.in/index.php/faculty/mukta-tripathy",
+        "roll": "210020120-last",
+        "department": "Chemical Engineering",
+        
+        "position": "Professor"
+      }
+    ]
+  },
+  "M.Tech": {
+    "title": "Masters Program",
+    "icon": "GraduationCap",
+    "color": "text-orange-400",
+    "bgColor": "from-orange-950/20",
+    "formula": "MTech",
+    "data": [
+      {
+        "name": "Prof. Ratul Dasgupta",
+        "image": "assets/images/facads/Ratul.jpg",
+        "email": "dasgupta.ratul@iitb.ac.in",
+        "phone": "+91 (22) 2576 7235",
+        "url": "https://www.che.iitb.ac.in/index.php/faculty/ratul-dasgupta",
+        "roll": "M.Tech Coordinator",
+        "department": "Chemical Engineering",
+        
+        "position": "Coordinator"
+      },
+      {
+        "name": "Prof. Abhijit Majumder",
+        "image": "assets/images/facads/Abhijit.jpg",
+        "email": "abhijitm@iitb.ac.in",
+        "phone": "+91 (22) 2576 7237",
+        "url": "https://www.che.iitb.ac.in/index.php/faculty/abhijit-majumder",
+        "roll": "M.Tech Co-Coordinator",
+        "department": "Chemical Engineering",
+        
+        "position": "Co-Coordinator"
+      }
+    ]
+  },
+  "PhD": {
+    "title": "Doctoral Program",
+    "icon": "Crown",
+    "color": "text-purple-400",
+    "bgColor": "from-purple-950/20",
+    "formula": "PhD",
+    "data": [
+      {
+        "name": "Prof. Mani Bhushan",
+        "image": "assets/images/facads/Mani.jpg",
+        "email": "mbhushan@che.iitb.ac.in",
+        "phone": "+91 (22) 2576 7214",
+        "url": "https://www.che.iitb.ac.in/index.php/faculty/mani-bhushan",
+        "roll": "PhD Coordinator",
+        "department": "Chemical Engineering",
+        
+        "position": "Coordinator"
+      },
+      {
+        "name": "Prof. Partha Sarathi Goswami",
+        "image": "assets/images/facads/Partha.jpg",
+        "email": "psg@che.iitb.ac.in",
+        "phone": "+91 (22) 2576 7230",
+        "url": "https://www.che.iitb.ac.in/index.php/faculty/partha-sarathi-goswami",
+        "roll": "PhD Co-Coordinator",
+        "department": "Chemical Engineering",
+        
+        "position": "Co-Coordinator"
+      },
+      {
+        "name": "Prof. Ateeque Malani",
+        "image": "assets/images/facads/malani.png",
+        "email": "malani@che.iitb.ac.in",
+        "phone": "+91 (22) 2576 7205",
+        "url": "https://www.che.iitb.ac.in/index.php/faculty/ateeque-malani",
+        "roll": "PhD Advisory Committee",
+        "department": "Chemical Engineering",
+        
+        "position": "Committee Member"
+      }
+    ]
+  }
+}
