@@ -12,7 +12,8 @@ djangorestframework-simplejwt==5.3.1  # if using JWT (you can remove if only usi
 django-cors-headers==4.3.1
 
 # File/image upload support
-Pillow==10.3.0
+Pillow==10.2.0
+
 
 # Whitenoise for static file serving in production
 whitenoise==6.6.0
