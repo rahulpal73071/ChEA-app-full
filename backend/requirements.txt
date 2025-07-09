@@ -1,0 +1,34 @@
+# Django core
+Django==5.0.6
+
+# Django REST Framework
+djangorestframework==3.15.1
+djangorestframework-simplejwt==5.3.1  # if using JWT (you can remove if only using TokenAuthentication)
+
+# Token auth
+djangorestframework-authtoken==1.2.0
+
+# CORS handling
+django-cors-headers==4.3.1
+
+# File/image upload support
+Pillow==10.3.0
+
+# Whitenoise for static file serving in production
+whitenoise==6.6.0
+
+# Gunicorn (for production server, e.g., Render/Heroku)
+gunicorn==22.0.0
+
+# Optional: Environment variable management (recommended)
+python-decouple==3.8
+
+# Email support (not strictly required, but useful for full functionality)
+# Add if you're using SMTP-based email sending (default is fine with just Django)
+
+# Optional: If you plan to deploy to PostgreSQL later
+# psycopg2-binary==2.9.9
+
+# Optional: Cloud storage (Cloudinary, AWS S3, etc.)
+# django-storages==1.13.2
+# cloudinary==1.38.0
